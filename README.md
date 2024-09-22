@@ -2,8 +2,9 @@
 
 ## Screenshots
 
-
-| [![IMAGE](https://github.com/KareemAbuRejila/ImageSliderCompose/blob/main/images/Screenshot_20240921_211258.png)]| [![IMAGE](https://github.com/KareemAbuRejila/ImageSliderCompose/blob/main/images/Screenshot_20240921_211348.png))]
+| Photo1                                                                                                            | Photo2                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [![IMAGE](https://github.com/KareemAbuRejila/ImageSliderCompose/blob/main/images/Screenshot_20240921_211258.png)] | [![IMAGE](https://github.com/KareemAbuRejila/ImageSliderCompose/blob/main/images/Screenshot_20240921_211348.png))] |
 
 ## Built With 🛠
 
